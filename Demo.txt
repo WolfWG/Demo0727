@@ -1,2 +1,6 @@
 hello, world
+<<<<<<< HEAD
 更改通过by master
+=======
+更改通过by branch01
+>>>>>>> branch01
